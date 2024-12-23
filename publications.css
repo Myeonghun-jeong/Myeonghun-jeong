@@ -1,0 +1,26 @@
+.header-font {
+    font-family: sans-serif;
+    font-size: 30px;
+    height: 116px;
+    background-color: #F5F5F5;
+    text-align: center;
+    line-height: 116px;
+}
+
+.navigate-button {
+    display: inline-block;
+    width: 160px;
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    line-height: 2;
+    background-color: transparent;
+    border: 0;
+    margin: auto;
+}
+
+.navigate-button:hover {
+    color: rgb(157, 139, 104)
+}
